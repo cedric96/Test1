@@ -3,7 +3,7 @@ package debut;
 public class Lamp {
 	
 		private boolean light;
-		private int a;
+		private int d;
 		
 		public Lamp(){
 			this.light=false;
